@@ -1,0 +1,10 @@
+
+servers:
+  -  ip: 203.10.4.0
+     port: 3238
+     user: root
+     pwd: 8ri1shanjin 
+  -  ip: 23.10.4.1
+     port: 3238
+     user: root
+     pwd: 22yu22 
