@@ -9,9 +9,9 @@
 * myssh.yaml---your ssh config file
 
 ##install
-    * python 2.7
-    * sudo pip install paramiko
-    * sudo pip install pyyaml
+    python 2.7
+    sudo pip install paramiko
+    sudo pip install pyyaml
 
 ##userage
 * write your ssh config to myssh.yaml(ip\port\user\password)
